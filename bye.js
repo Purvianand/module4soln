@@ -3,5 +3,5 @@
 
 
 byespeaker.Bye =  function (names) {
-  console.log("Goodbye" + names);
+  console.log("Goodbye" + " " + names);
 };
