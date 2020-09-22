@@ -3,5 +3,5 @@
 
 
 hellospeaker.Hello =  function (names) {
-  console.log("Hello" + names);
+  console.log("Hello" + " " + names);
 };
